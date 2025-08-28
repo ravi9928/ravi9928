@@ -10,7 +10,7 @@
 
 📫 mail me at ravirajsinghrathore167@gmail.com
 
-Reach me [https://ravirajsingh.in](https://raviraj-singh-portfolio.vercel.app/)
+🔗 Reach me at https://raviraj-singh-portfolio.vercel.app/
 
 
 
