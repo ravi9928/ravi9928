@@ -1,12 +1,16 @@
  ##  I'm Raviraj Singh
-A passionate **web developer**.
-🌱 I’m currently learning Node technology and good knowledge of java and php.
+  
+  Results ­driven Backend Developer with expertise in Node.js and PHP, specializing in building scalable,
+  high ­performance web applications. Adept at designing and optimizing RESTful APIs, database
+  management, and backend architecture to ensure seamless system functionality.Passionate about
+  problem ­solving, code efficiency, and delivering robust software solutions. Experienced in collaborating
+  with cross ­functional teams to drive product success.
 
-👨‍💻 All of my projects are available at https://github.com/ravi9928
+👨‍💻 Linkedin https://www.linkedin.com/in/ravirajsinghrathore167/
 
 📫 mail me at ravirajsinghrathore167@gmail.com
 
-Reach me https://ravirajsingh.in
+Reach me [https://ravirajsingh.in](https://raviraj-singh-portfolio.vercel.app/)
 
 
 
